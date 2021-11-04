@@ -2,8 +2,11 @@
 title: "Aboout me"
 output: 
   html_document:
+    html_document:
+       css:bootstrap.css
     toc: true
     toc_float: true
+    theme: lumen
 ---
 
 # This page has information about me 
